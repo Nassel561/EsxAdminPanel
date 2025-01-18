@@ -12,4 +12,4 @@ En **FiveM ESX**-administratörspanel som gör det enkelt för serveradministrat
 - **Ange Anledning**: Ange en specifik anledning för åtgärden (t.ex. "För att bryta mot reglerna").
 - **NUI**: Allt görs via ett användarvänligt gränssnitt som gör det enkelt att vidta åtgärder.
 
-![Admin Panel](https://ibb.co/GHhRpMK)
+![Admin Panel](https://i.ibb.co/Rj5cb6x/image.png)
